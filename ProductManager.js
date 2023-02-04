@@ -88,9 +88,10 @@ class ProductManager {
       }
     }
 
-
     let pm = new ProductManager("./products.json");
 
 
+
+    
    // module.exports = ProductManager;
     
